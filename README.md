@@ -4,4 +4,4 @@ For knowning the features used, you can refer to the dataset or to know the clea
 
 Here before performing regression, we dealt with data cleaning(pre processing),missing values, outliers, checking the OLS assumptions, creating dummy variables and the dummy trap that might lead to multicoliinearity.
 
-Just before performing the regression we scaled the data and split the model into test and train submodels.
+Just before performing the regression, we scaled the data and split the model into test and train submodels.
